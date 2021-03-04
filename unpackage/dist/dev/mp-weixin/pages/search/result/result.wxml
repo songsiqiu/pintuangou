@@ -1,0 +1,1 @@
+<view class="container u-flex u-flex-wrap" style="justify-content:space-between;"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><pin-product vue-id="{{'73509b05-1-'+index}}" item="{{item}}" data-event-opts="{{[['^click',[['toDetail']]]]}}" bind:click="__e" bind:__l="__l"></pin-product></block></view>

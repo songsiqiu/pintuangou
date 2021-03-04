@@ -1,0 +1,68 @@
+
+.goods-action-wrapper.data-v-157563a4 {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	z-index: 1000;
+	height: 160rpx;
+	width: 750rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+
+	font-family: '思源黑体 ', '思源黑体', sans-serif;
+	font-size: 28rpx;
+}
+.item.data-v-157563a4 {
+	text-align: center;
+	height: 160rpx;
+	line-height: 160rpx;
+	padding-top: 40rpx;
+	padding-bottom: 34rpx;
+}
+.content.data-v-157563a4 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	height: 86rpx;
+	text-align: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.text.data-v-157563a4 {
+	height: 43rpx;
+	line-height: 43rpx;
+	text-align: center;
+	font-size: 30rpx;
+}
+.gray.data-v-157563a4 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	color: #666;
+	background-color: #fff;
+}
+.cs.data-v-157563a4 {
+	border-right: 1px solid #999;
+}
+.fav.data-v-157563a4 {}
+.fav.storeup.data-v-157563a4 {
+	background-color: #ff6633;
+	color: #fff;
+}
+.buy.data-v-157563a4 {
+	width: 224rpx;
+	background-color: #ffc80d;
+	color: #fff;
+}
+.group.data-v-157563a4 {
+	width: 240rpx;
+	background-color: #ff6633;
+	color: #fff;
+}
+

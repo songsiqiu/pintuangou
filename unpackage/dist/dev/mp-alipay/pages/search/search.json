@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "搜索",
+  "pullRefresh": false,
+  "usingComponents": {
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "pin-search-recommend-list": "/components/pin-search-recommend-list/pin-search-recommend-list"
+  }
+}

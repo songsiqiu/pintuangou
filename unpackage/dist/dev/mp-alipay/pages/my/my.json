@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "我的",
+  "pullRefresh": false,
+  "usingComponents": {
+    "pin-user-info": "/components/pin-user-info/pin-user-info",
+    "u-cell-group": "/node-modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/node-modules/uview-ui/components/u-cell-item/u-cell-item"
+  }
+}

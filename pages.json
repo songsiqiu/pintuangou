@@ -1,0 +1,94 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/class/class",
+		"style": {
+			"navigationBarTitleText": "分类",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/msg/msg",
+		"style": {
+			"navigationBarTitleText": "消息",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/my/my",
+		"style": {
+			"navigationBarTitleText": "我的",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/search/search",
+		"style": {
+			"navigationBarTitleText": "搜索",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/search/result/result",
+		"style": {
+			"navigationBarTitleText": "搜索结果",
+			"enablePullDownRefresh": false
+		}
+
+	}    ,{
+            "path" : "pages/group-detail/group-detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "拼团购",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+		
+	},
+	"tabBar": {
+		"color": "#999",
+		"selectedColor": "#ff6633",
+		"backgroundColor": "#ffffff",
+		"fontSize": "12px",
+		"iconWidth": "24px",
+		"height": "80px",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "首页",
+			"iconPath": "static/tab-bar/home.png",
+			"selectedIconPath": "static/tab-bar/home_selected.png"
+		}, {
+			"pagePath": "pages/class/class",
+			"text": "分类",
+			"iconPath": "static/tab-bar/class.png",
+			"selectedIconPath": "static/tab-bar/class_selected.png"
+		}, {
+			"pagePath": "pages/msg/msg",
+			"text": "消息",
+			"iconPath": "static/tab-bar/msg.png",
+			"selectedIconPath": "static/tab-bar/msg_selected.png"
+		}, {
+			"pagePath": "pages/my/my",
+			"text": "我的",
+			"iconPath": "static/tab-bar/my.png",
+			"selectedIconPath": "static/tab-bar/my_selected.png"
+		}]
+	}
+}

@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/class/class",
+    "pages/msg/msg",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/search/result/result",
+    "pages/group-detail/group-detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "拼团购",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#ff6633",
+    "backgroundColor": "#ffffff",
+    "fontSize": "12px",
+    "iconWidth": "24px",
+    "height": "80px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tab-bar/home.png",
+        "selectedIconPath": "static/tab-bar/home_selected.png"
+      },
+      {
+        "pagePath": "pages/class/class",
+        "text": "分类",
+        "iconPath": "static/tab-bar/class.png",
+        "selectedIconPath": "static/tab-bar/class_selected.png"
+      },
+      {
+        "pagePath": "pages/msg/msg",
+        "text": "消息",
+        "iconPath": "static/tab-bar/msg.png",
+        "selectedIconPath": "static/tab-bar/msg_selected.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/tab-bar/my.png",
+        "selectedIconPath": "static/tab-bar/my_selected.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

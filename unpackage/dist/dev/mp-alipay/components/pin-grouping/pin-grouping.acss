@@ -1,0 +1,15 @@
+
+.u-cell.data-v-7d74d538{
+	position: relative;
+}
+.u-cell.data-v-7d74d538::before{
+	position: absolute;
+	left: 5rpx;
+	top: 0rpx;
+	content: "";
+	display: block;
+	width: 4px;
+	height:100%;
+	background-color: #ff6633;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pin-activity": "/components/pin-activity/pin-activity",
+    "pin-grouping": "/components/pin-grouping/pin-grouping",
+    "pin-goods-action": "/components/pin-goods-action/pin-goods-action",
+    "pin-group-choice": "/components/pin-group-choice/pin-group-choice"
+  }
+}

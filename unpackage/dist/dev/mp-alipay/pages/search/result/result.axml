@@ -1,0 +1,1 @@
+<view class="container u-flex u-flex-wrap" style="justify-content:space-between;"><pin-product vue-id="{{'73469adb-1-'+index}}" item="{{item}}" data-event-opts="{{[['^click',[['toDetail']]]]}}" onClick="__e" a:for="{{list}}" a:for-item="item" a:for-index="index" a:key="index" onVueInit="__l"></pin-product></view>

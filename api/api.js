@@ -1,0 +1,1 @@
+const ACTIVITY_BY_ID = "/api/activity/"

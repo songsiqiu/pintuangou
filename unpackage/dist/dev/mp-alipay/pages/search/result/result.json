@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "搜索结果",
+  "pullRefresh": false,
+  "usingComponents": {
+    "pin-product": "/components/pin-product/pin-product"
+  }
+}

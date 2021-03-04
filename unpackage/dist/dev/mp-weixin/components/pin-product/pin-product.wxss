@@ -1,0 +1,70 @@
+
+.product.data-v-29ccca74{
+  width: 314rpx;
+  height: 430rpx;
+  margin-bottom: 22rpx;
+}
+.img.data-v-29ccca74{
+  width: 312rpx;
+  height: 318rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  position: relative;
+  margin-bottom: 22rpx;
+}
+.image.data-v-29ccca74{
+  width: 312rpx;
+  height: 318rpx;
+}
+.group-count.data-v-29ccca74{
+  position: absolute;
+  left: 0;
+  bottom: 42rpx;
+  height: 40rpx;
+  line-height: 20rpx;
+  -webkit-border-radius: 0 20rpx 20rpx 0;
+          border-radius: 0 20rpx 20rpx 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10rpx 22rpx;
+
+  background-color: #ff6633;
+
+  font-family: 'Arial Regular', 'Arial', sans-serif;
+  color: #ffffff;
+
+  font-size: 20rpx;
+}
+.title.data-v-29ccca74{
+  font-family: '思源黑体 ', '思源黑体', 'sans-serif';
+  font-size: 28rpx;
+  color: #333;
+  margin-bottom: 4rpx;
+}
+.info.data-v-29ccca74{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.price.data-v-29ccca74{
+  font-family: '思源黑体 ', '思源黑体', 'sans-serif';
+  font-size: 36rpx;
+  color: #ff6633;
+  font-weight: 700;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.count-desc.data-v-29ccca74{
+  font-family: '思源黑体 ', '思源黑体', 'sans-serif';
+  font-size: 24rpx;
+  color: #333;
+}
+.count.data-v-29ccca74{
+  font-family: '思源黑体 ', '思源黑体', 'sans-serif';
+  font-size: 36rpx;
+  color: #ff6633;
+  font-weight: 700;
+  font-size: 24rpx;
+}
+
